@@ -1,0 +1,18 @@
+body {
+    position: relative;
+    width: 414px;
+    height: 896px;
+    /* background: linear-gradient(0deg, #000000, #000000), #FFFFFF; */
+    background: url(https://images.unsplash.com/photo-1599148400620-8e1ff0bf28d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80);
+
+}
+
+button {
+    position: absolute;
+    width: 184px;
+    height: 69px;
+    left: 115px;
+    top: 571px;
+
+    background: #D9D9D9;
+}
