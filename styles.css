@@ -29,8 +29,12 @@ li {
   justify-content: center;
   align-items: center;
 }
-
+figcaption
+{
+  color:rgb(0, 95, 139)
+}
 img{
+  
   width: 50%;
   height: 50%;
   padding-bottom: 2rem;

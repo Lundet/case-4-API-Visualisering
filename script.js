@@ -18,9 +18,11 @@ button.addEventListener("click", () => {
             output += `<li>
             <figure>
             <img src="${photo.img_src}" alt="${photo.camera.full_name}"/>
-            <figcaption>             Rovername: ${photo.rover.name} <br>
+            <figcaption>
+            Rovername: ${photo.rover.name} <br>
             Launchdate: ${photo.rover.launch_date}<br>
-            Landingdate:${photo.rover.landing_date}<br>           
+            Landingdate:${photo.rover.landing_date}<br>    
+            Status:${photo.rover.status}     
             </figcaption>
             </figure>
             </li>`;
