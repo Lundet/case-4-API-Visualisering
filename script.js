@@ -2,7 +2,6 @@ const button = document.querySelector("button");
 
 const apiKey = "api_key=5w0oALe8aKV1rx64FoAQKn6vCeDAjaeTvGangKyT"
 
-const searchInput = document.getElementById("searchInput")
 
 const camera = document.getElementById("camera")
 
